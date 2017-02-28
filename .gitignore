@@ -2,3 +2,9 @@
 *.log
 doc/*.html
 node_modules
+### Example user template template
+.idea
+*.iml
+out
+gen
+node_modules
